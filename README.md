@@ -9,7 +9,7 @@ The project aim is to build a machine learning model that offers users to find c
 
 **Dataset Link:** [Dataset](https://drive.google.com/drive/folders/16U7OH7URsCW0rf91cwyDqEgd9UoeZAJh)
 
-**Feature Description Link:** [Features](https://docs.google.com/document/d/1hxW7IvCX5806H0IsG2Zg9WnVIpr2ZPueB4AElMTokGs/edit?usp=sharing))
+**Feature Description Link:** [Features](https://docs.google.com/document/d/1hxW7IvCX5806H0IsG2Zg9WnVIpr2ZPueB4AElMTokGs/edit?usp=sharing)
 
 **Data Collected From:** [Car Dheko](https://www.cardekho.com/usedCars)
 
